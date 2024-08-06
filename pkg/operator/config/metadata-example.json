@@ -2,6 +2,6 @@
   "name": "XSS labs ",
   "website": "https://explorer.xsslabs.tech/",
   "description": "Trusted POS Validator ",
-  "logo": "https://github.com/Gpaul26/eigenlayer-cli/blob/master/pkg/operator/config/logo.png",
+  "logo": "https://raw.githubusercontent.com/Gpaul26/eigenlayer-cli/master/pkg/operator/config/logo.png",
   "twitter": "https://x.com/GpaulValidator"
 }
